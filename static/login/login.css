@@ -1,0 +1,53 @@
+
+
+
+.panel{
+    margin-top: 100px;
+    background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558458957083&di=a0125b9207e17cc179b5eb60bda8388d&imgtype=0&src=http%3A%2F%2Fimg.zhisheji.com%2Fbbs%2Fforum%2F201407%2F06%2F171324z3vfjvfar0o55rv4.jpg');
+
+}
+
+.form-group label{
+    margin-left: 80px;
+    font-size: 15px;
+
+}
+
+.form-group{
+     margin-top: 30px;
+}
+
+.form-group input[type="text"]{
+    margin: 0 auto;
+    width: 400px;
+    height: 50px;
+}
+.form-group input[type="password"] {
+    margin-left: 80px;
+    width: 400px;
+    height: 50px;
+
+}
+
+.form-group1 label{
+    margin-top: 30px;
+    margin-left: 70px;
+    font-size: 15px;
+}
+.form-group1 input[type="text"]{
+    /*margin-left: 70px;*/
+    width: 180px;
+    height: 30px;
+}
+
+.text-success ins{
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.btn{
+    margin-left: 120px;
+    width: 300px;
+    height: 40px;
+}
